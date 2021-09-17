@@ -1,0 +1,9 @@
+C:\Atomacao_Bancaria\AltomacaoComSqlServer\Camada_DAO_DAL\obj\Debug\Camada_DAO_DAL.csproj.AssemblyReference.cache
+C:\Atomacao_Bancaria\AltomacaoComSqlServer\Camada_DAO_DAL\obj\Debug\Camada_DAO_DAL.csproj.CoreCompileInputs.cache
+C:\Atomacao_Bancaria\AltomacaoComSqlServer\Camada_DAO_DAL\bin\Debug\Camada_DAO_DAL.dll
+C:\Atomacao_Bancaria\AltomacaoComSqlServer\Camada_DAO_DAL\bin\Debug\Camada_DAO_DAL.pdb
+C:\Atomacao_Bancaria\AltomacaoComSqlServer\Camada_DAO_DAL\bin\Debug\Model_VO.dll
+C:\Atomacao_Bancaria\AltomacaoComSqlServer\Camada_DAO_DAL\bin\Debug\Model_VO.pdb
+C:\Atomacao_Bancaria\AltomacaoComSqlServer\Camada_DAO_DAL\obj\Debug\Camada_DAO_DAL.csproj.CopyComplete
+C:\Atomacao_Bancaria\AltomacaoComSqlServer\Camada_DAO_DAL\obj\Debug\Camada_DAO_DAL.dll
+C:\Atomacao_Bancaria\AltomacaoComSqlServer\Camada_DAO_DAL\obj\Debug\Camada_DAO_DAL.pdb

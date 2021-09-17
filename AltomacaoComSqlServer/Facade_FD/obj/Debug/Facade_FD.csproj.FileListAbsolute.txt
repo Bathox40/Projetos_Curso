@@ -1,0 +1,11 @@
+C:\Atomacao_Bancaria\AltomacaoComSqlServer\Facade_FD\obj\Debug\Facade_FD.csproj.CoreCompileInputs.cache
+C:\Atomacao_Bancaria\AltomacaoComSqlServer\Facade_FD\bin\Debug\Facade_FD.dll
+C:\Atomacao_Bancaria\AltomacaoComSqlServer\Facade_FD\bin\Debug\Facade_FD.pdb
+C:\Atomacao_Bancaria\AltomacaoComSqlServer\Facade_FD\bin\Debug\Camada_DAO_DAL.dll
+C:\Atomacao_Bancaria\AltomacaoComSqlServer\Facade_FD\bin\Debug\Model_VO.dll
+C:\Atomacao_Bancaria\AltomacaoComSqlServer\Facade_FD\bin\Debug\Camada_DAO_DAL.pdb
+C:\Atomacao_Bancaria\AltomacaoComSqlServer\Facade_FD\bin\Debug\Model_VO.pdb
+C:\Atomacao_Bancaria\AltomacaoComSqlServer\Facade_FD\obj\Debug\Facade_FD.csproj.AssemblyReference.cache
+C:\Atomacao_Bancaria\AltomacaoComSqlServer\Facade_FD\obj\Debug\Facade_FD.csproj.CopyComplete
+C:\Atomacao_Bancaria\AltomacaoComSqlServer\Facade_FD\obj\Debug\Facade_FD.dll
+C:\Atomacao_Bancaria\AltomacaoComSqlServer\Facade_FD\obj\Debug\Facade_FD.pdb
